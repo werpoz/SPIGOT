@@ -4,7 +4,7 @@
        de pi utilizando el algoritmo de espita
        diseñado por Jeremy Gibbons. Implementación
        de John Zelle con ligeras alteraciones por
-       Ariel Ortiz.
+       Ariel Ortiz y adaptado de C a PHP.
 */
 set_time_limit(600);
 function cal($d)
