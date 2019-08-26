@@ -4,5 +4,5 @@ Unbounded Spigot Algorithms for the Digits of Pi
 recomend  https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/spigot.pdf
 
 ##RUN
->php \.spigot.php 
+>php /.spigot.php 
 
